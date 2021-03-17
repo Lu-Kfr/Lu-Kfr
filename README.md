@@ -1,3 +1,5 @@
+French/ English
+
 - Hi everyone 👋| My Name Is Lu-K
 - | Developpment | ---
                                       
