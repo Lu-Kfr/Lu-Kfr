@@ -10,3 +10,4 @@
 - ![RAGEUI](https://img.shields.io/badge/RAGEUI%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) 
 - ![ESX](https://img.shields.io/badge/ESX%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) 
 - ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)  
+- ![LUA](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)  
