@@ -1,7 +1,7 @@
 English/ French
 
 - Hi everyone 👋| My Name Is Lu-K
-- | Developpment | ---
+- | Development | ---
                                       
 - Salut à tous 👋| Je m'appelle Lu-K
 - | Développement | ---
