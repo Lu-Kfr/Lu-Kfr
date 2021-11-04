@@ -8,8 +8,7 @@ English/ French
 
 [![Lu-K's github stats](https://github-readme-stats.vercel.app/api?username=Lu-Kfr)](https://github.com/Lu-Kfr/github-readme-stats)
 
-- ### Languages 
-- ![RAGEUI](https://img.shields.io/badge/RAGEUI%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) 
+- ### Languages  
 - ![LUA](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)  
 - ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 - ### Plateformes
