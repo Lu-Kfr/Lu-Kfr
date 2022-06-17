@@ -1,11 +1,3 @@
-English/ French
-
-- Hi everyone 👋| My Name Is Lu-K
-- | Development | ---
-                                      
-- Salut à tous 👋| Je m'appelle Lu-K
-- | Développement | ---
-
 [![Lu-K's github stats](https://github-readme-stats.vercel.app/api?username=Lu-Kfr)](https://github.com/Lu-Kfr/github-readme-stats)
 
 - ### Languages  
