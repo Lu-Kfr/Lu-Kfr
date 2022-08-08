@@ -1,5 +1,3 @@
-[![Lu-K's github stats](https://github-readme-stats.vercel.app/api?username=Lu-Kfr)](https://github.com/Lu-Kfr/github-readme-stats)
-
 - ### Languages  
 - ![LUA](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)  
 - ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
